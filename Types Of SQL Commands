@@ -1,0 +1,7 @@
+SELECT: Retrieves data from a database.
+INSERT: Adds new records to a table.
+UPDATE: Modifies existing records in a table.
+DELETE: Removes records from a table.
+CREATE: Creates a new database, table, or view.
+ALTER: Modifies the existing database object structure.
+DROP: Deletes an existing database object.
